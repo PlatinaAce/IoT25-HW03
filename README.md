@@ -6,7 +6,7 @@ Screenshot of Arduino IDE showing selected board & port
 ![Photo](Assignment3.png)
 
 
-Photo or video of the ESP32 blinking LED
+Photo or video of the ESP32
 
 ![Video](Assignment3.GIF)
 
